@@ -29,6 +29,8 @@
     "errorhandler": "latest",
     "express": "latest",
     "forever": "latest",
+    "googleapis": "latest",
+    "google-auth-library": "latest",
     "gridfs-stream": "latest",
     "jsonwebtoken": "latest",
     "lodash": "latest",
